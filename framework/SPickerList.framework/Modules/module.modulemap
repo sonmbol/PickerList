@@ -1,0 +1,11 @@
+framework module SPickerList {
+  umbrella header "SPickerList.h"
+
+  export *
+  module * { export * }
+}
+
+module SPickerList.Swift {
+    header "SPickerList-Swift.h"
+    requires objc
+}
