@@ -78,6 +78,6 @@ This project is under MIT license. For more information, see `LICENSE` file.
 
 It will be updated when necessary and fixes will be done as soon as discovered to keep it up to date.
 
-You can find me on Twitter [@sonmbo](https://twitter.com/sonmbol).
+You can find me on Twitter [@sonmbol](https://twitter.com/sonmbol).
 
 Enjoy!
