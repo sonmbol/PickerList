@@ -23,16 +23,12 @@ Use [Carthage](https://github.com/Carthage/Carthage).
 
 A regular way to use SPickerList in your project would be using Embedded Framework. There are two approaches, using source code and adding submodule.
 
-Add source code:
-
-1. Download the [latest code version](http://github.com/sonmbol/PickerList.zip).
-2. Unzip the download file, copy `SPickerList` folder to your project folder
 
 Add submodule
 
 1. In your favorite terminal, `cd` into your top-level project directory, and entering the following command:
 ``` bash
-$ git submodule add git@github.com:onmbol/PickerList.git
+$ git submodule add git@github.com:sonmbol/PickerList.git
 ```
 
 After you get the source code either by adding it directly or using submodule, then do the following steps:
