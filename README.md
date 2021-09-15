@@ -1,6 +1,6 @@
 ### Picker List 
 
-[![Twitter: @kevinh6113](https://img.shields.io/badge/contact-%40sonmbol-70a1fb.svg?style=flat)]
+[![Twitter: @sonmbol](https://img.shields.io/badge/contact-%40sonmbol-70a1fb.svg?style=flat)]
 [![License: MIT](http://img.shields.io/badge/license-MIT-70a1fb.svg?style=flat)](https://github.com/sonmbol/PickerList/README.md)
 [![Version](https://img.shields.io/badge/version-1.0-green.svg?style=flat)](https://github.com/sonmbol/PickerList)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
